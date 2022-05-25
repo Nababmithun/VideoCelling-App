@@ -1,12 +1,6 @@
 <resources>
     <string name="app_name">VideoChat App</string>
+    <string name="agora_app_id">642bdba3ed114c7f987fa73881912629</string>
+    <string name="agora_access_token">69fc7881bea7469490a3087f6dec5d9e</string>
 
-    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
-    <!-- Get your own App ID at https://dashboard.agora.io/ -->
-    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
-    <string name="agora_app_id">fdd</string>
-    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
-    <!-- You will need to deploy your own token server for production release -->
-    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
-    <string name="agora_access_token">sdsds</string>
 </resources>

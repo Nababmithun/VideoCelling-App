@@ -1,178 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7cf8e3511ce0ca664790288f6a2f3ed6\AndroidManifest.xml:17:1-22:12
-MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\1035b16a8ab8d4d52d79814b696452e3\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f7f57dfe7f868ea3904f102b31fcfe49\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\80811dd7d8818f9c8f1bbf96f12f9973\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0bfca71a6286a58675fdb6a801804b0c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33c2058d688094284b2cccee391a969e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5423ef59e40147f85072ef3ada89928e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\beb075743bee1305091015aef4076993\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\783eb1fbef745942c0ec0c024f12491e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d79c92cf7873436248c332ae879c59a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2cfdd59df4eb648af374aa506c909d68\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\277fe0a717be61f9ead6b3b8accc90b2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2171ea0072e3f00f9afbf2b8b4898e45\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fc45c4f7a0102124d824afe279dd17a8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ba9826cec4887031431c6733f864d4b7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dee51e66d3cfe191598e9a5747e7ff1e\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1c28c5037608a2557c2fd20b6c5821fc\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1fb0651e3e5cb29fb7c7d32a5c955ba8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a803f10543d671648bbe70dfd3613ea8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e6fb702619d3f7e37b5dfb9db5d5ec81\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f5c97d78ff30c7664f2699721b8bd27\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\732332ce22c87f01b6449811842402ad\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\74f55cc613d6aa800b7ffcf57840aaa9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9d9c0c5479e55b9ecfc9d164cab5c640\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0bc657e7f184e3b409439582eea81125\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\81821b35bf13c866d18e6f09b0078346\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2fcf634b8f20cd34ead8be567f3250b1\AndroidManifest.xml:17:1-22:12
+MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\8213bbd2abe3354db72bca34e6754a85\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\418f16aa2b6a8d6a36cf0ef2bc545886\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f118aab5045ec4aabb47e36ae15d9b20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d79684ab5575f694dde03a5f618c0753\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\588db9e35c78cb836d302b463f408853\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a0bebf5adbb97a7ad79fda31c0836e1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f411669c7846b547eee5c79c3764083b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1614b3ff01fc9fca1bae478339f7753f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\934ca0f35f9728d1edc4744e0433c983\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4b10cd8a8f4bacdf42f3ecfcdc097f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3aedd53a0492c6f88bf9fc2c33680b9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f8adbcbeec26d69b3574d18cb9410fa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\54b5d11fd3ed8643a715574ff86d22da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\117b073e31706fed7e72801291accc31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\50bd93bf16da66cc2b127ce18fafde4d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e74d35b5f8b1dd5ed4bcf064c01c25c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d635eeee3638cdbf672c15596b228d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5847319e6b03609c8077a2b04fb42ea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a075ca10e956821473838f26f7c3d68e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a41a00d2da27984d37839aa2ddf2d8be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\24a01882baf394bd41bf0811720c38a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e88bb63ec438242452a864adc0706ed8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ceda0e35b8e892b13f3991da71175a1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf10146a75e199aa08036a8712969e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec6c01a89d9afed44528912c4f8a31d4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:4:5-34
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:7:5-71
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:7:5-71
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:7:22-68
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:7:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:10:5-65
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:10:22-62
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:10:22-62
 application
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:12:5-29:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dee51e66d3cfe191598e9a5747e7ff1e\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dee51e66d3cfe191598e9a5747e7ff1e\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:12:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\50bd93bf16da66cc2b127ce18fafde4d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\50bd93bf16da66cc2b127ce18fafde4d\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:14:9-45
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:14:9-45
 	android:allowBackup
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:17:9-40
 activity#io.videochat.mithun.VideoChatViewActivity
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:18:9-28:20
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:18:9-28:20
 	android:screenOrientation
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:20:13-55
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:20:13-55
 	tools:ignore
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:22:13-42
 	android:theme
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:19:13-69
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:19:13-69
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7cf8e3511ce0ca664790288f6a2f3ed6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7cf8e3511ce0ca664790288f6a2f3ed6\AndroidManifest.xml:20:5-44
-MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\1035b16a8ab8d4d52d79814b696452e3\AndroidManifest.xml:7:5-9:41
-MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\1035b16a8ab8d4d52d79814b696452e3\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f7f57dfe7f868ea3904f102b31fcfe49\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f7f57dfe7f868ea3904f102b31fcfe49\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\80811dd7d8818f9c8f1bbf96f12f9973\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\80811dd7d8818f9c8f1bbf96f12f9973\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0bfca71a6286a58675fdb6a801804b0c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0bfca71a6286a58675fdb6a801804b0c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33c2058d688094284b2cccee391a969e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33c2058d688094284b2cccee391a969e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5423ef59e40147f85072ef3ada89928e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5423ef59e40147f85072ef3ada89928e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\beb075743bee1305091015aef4076993\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\beb075743bee1305091015aef4076993\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\783eb1fbef745942c0ec0c024f12491e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\783eb1fbef745942c0ec0c024f12491e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d79c92cf7873436248c332ae879c59a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0d79c92cf7873436248c332ae879c59a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2cfdd59df4eb648af374aa506c909d68\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2cfdd59df4eb648af374aa506c909d68\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\277fe0a717be61f9ead6b3b8accc90b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\277fe0a717be61f9ead6b3b8accc90b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2171ea0072e3f00f9afbf2b8b4898e45\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2171ea0072e3f00f9afbf2b8b4898e45\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fc45c4f7a0102124d824afe279dd17a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\fc45c4f7a0102124d824afe279dd17a8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ba9826cec4887031431c6733f864d4b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\ba9826cec4887031431c6733f864d4b7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7d56ba7b9f49850a8d20715a91d57c3f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dee51e66d3cfe191598e9a5747e7ff1e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dee51e66d3cfe191598e9a5747e7ff1e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1c28c5037608a2557c2fd20b6c5821fc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\1c28c5037608a2557c2fd20b6c5821fc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1fb0651e3e5cb29fb7c7d32a5c955ba8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1fb0651e3e5cb29fb7c7d32a5c955ba8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a803f10543d671648bbe70dfd3613ea8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a803f10543d671648bbe70dfd3613ea8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e6fb702619d3f7e37b5dfb9db5d5ec81\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e6fb702619d3f7e37b5dfb9db5d5ec81\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f5c97d78ff30c7664f2699721b8bd27\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4f5c97d78ff30c7664f2699721b8bd27\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\732332ce22c87f01b6449811842402ad\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\732332ce22c87f01b6449811842402ad\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\74f55cc613d6aa800b7ffcf57840aaa9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\74f55cc613d6aa800b7ffcf57840aaa9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9d9c0c5479e55b9ecfc9d164cab5c640\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9d9c0c5479e55b9ecfc9d164cab5c640\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0bc657e7f184e3b409439582eea81125\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0bc657e7f184e3b409439582eea81125\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\81821b35bf13c866d18e6f09b0078346\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\81821b35bf13c866d18e6f09b0078346\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2fcf634b8f20cd34ead8be567f3250b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2fcf634b8f20cd34ead8be567f3250b1\AndroidManifest.xml:20:5-44
+MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\8213bbd2abe3354db72bca34e6754a85\AndroidManifest.xml:7:5-9:41
+MERGED from [io.agora.rtc:full-sdk:2.4.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\full-sdk-2.4.1.aar\8213bbd2abe3354db72bca34e6754a85\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\418f16aa2b6a8d6a36cf0ef2bc545886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\418f16aa2b6a8d6a36cf0ef2bc545886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f118aab5045ec4aabb47e36ae15d9b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\f118aab5045ec4aabb47e36ae15d9b20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d79684ab5575f694dde03a5f618c0753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d79684ab5575f694dde03a5f618c0753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\588db9e35c78cb836d302b463f408853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\588db9e35c78cb836d302b463f408853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a0bebf5adbb97a7ad79fda31c0836e1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a0bebf5adbb97a7ad79fda31c0836e1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f411669c7846b547eee5c79c3764083b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f411669c7846b547eee5c79c3764083b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1614b3ff01fc9fca1bae478339f7753f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1614b3ff01fc9fca1bae478339f7753f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\934ca0f35f9728d1edc4744e0433c983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\934ca0f35f9728d1edc4744e0433c983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4b10cd8a8f4bacdf42f3ecfcdc097f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\4d4b10cd8a8f4bacdf42f3ecfcdc097f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3aedd53a0492c6f88bf9fc2c33680b9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3aedd53a0492c6f88bf9fc2c33680b9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f8adbcbeec26d69b3574d18cb9410fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f8adbcbeec26d69b3574d18cb9410fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\54b5d11fd3ed8643a715574ff86d22da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\54b5d11fd3ed8643a715574ff86d22da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\117b073e31706fed7e72801291accc31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\117b073e31706fed7e72801291accc31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\94b79248f5d9d5207e39ac72e6f96a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\50bd93bf16da66cc2b127ce18fafde4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\50bd93bf16da66cc2b127ce18fafde4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e74d35b5f8b1dd5ed4bcf064c01c25c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e74d35b5f8b1dd5ed4bcf064c01c25c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d635eeee3638cdbf672c15596b228d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d635eeee3638cdbf672c15596b228d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5847319e6b03609c8077a2b04fb42ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5847319e6b03609c8077a2b04fb42ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a075ca10e956821473838f26f7c3d68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a075ca10e956821473838f26f7c3d68e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a41a00d2da27984d37839aa2ddf2d8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a41a00d2da27984d37839aa2ddf2d8be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\24a01882baf394bd41bf0811720c38a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\24a01882baf394bd41bf0811720c38a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e88bb63ec438242452a864adc0706ed8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e88bb63ec438242452a864adc0706ed8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ceda0e35b8e892b13f3991da71175a1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ceda0e35b8e892b13f3991da71175a1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf10146a75e199aa08036a8712969e4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cf10146a75e199aa08036a8712969e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec6c01a89d9afed44528912c4f8a31d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec6c01a89d9afed44528912c4f8a31d4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pc\Desktop\Basic-Video-Call-master\One-to-One-Video\Agora-Android-Tutorial-Kotlin-1to1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\VideoCelling-App\app\src\main\AndroidManifest.xml

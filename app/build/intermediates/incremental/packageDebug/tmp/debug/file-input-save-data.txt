@@ -1,14 +1,14 @@
 #Internal package file, do not edit.
-#Tue May 24 23:32:49 PDT 2022
+#Wed May 25 09:42:36 EDT 2022
 3.set=NATIVE_RESOURCE
 3.path=lib/armeabi-v7a/libagora-crypto.so
-2.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=lib/x86/libagora-rtc-sdk-jni.so
-5.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 6.baseType=DIRECTORY
-0.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-3.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-6.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 5.path=lib/arm64-v8a/libagora-rtc-sdk-jni.so
 3.baseType=DIRECTORY
 1.path=lib/arm64-v8a/libagora-crypto.so
@@ -25,7 +25,7 @@ count=7
 2.baseType=DIRECTORY
 2.set=DEX
 1.baseType=DIRECTORY
-4.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-1.base=C\:\\Users\\pc\\Desktop\\Basic-Video-Call-master\\One-to-One-Video\\Agora-Android-Tutorial-Kotlin-1to1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+1.base=C\:\\Users\\HP\\Desktop\\VideoCelling-App\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 4.baseType=DIRECTORY
 6.path=lib/x86/libagora-crypto.so
